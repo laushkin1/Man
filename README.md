@@ -10,14 +10,21 @@ make
 
 ## Control
 `w` - Go up
+
 `s` - Go Down
+
 `a` - Go Left
+
 `d` - Go Right
+
 
 `w`/`s`/`a`/`d` + `shift` - Sprint
 
+
 `q` - Raise left hand up
+
 `e` - Raise right hand up
+
 
 `q`/`e` + `shift` - Lift left/right hand 
 
